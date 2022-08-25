@@ -4,9 +4,9 @@
 - 📫 Contate-me no email: devmarciio@gmail.com
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mjmarcio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjmarcio&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/MJMarcio">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mjmarcio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjmarcio&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div align="center" style="display: inline_block"><br>
    <img align="center" alt="mj-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
