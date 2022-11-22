@@ -1,6 +1,6 @@
 ## Olá, eu sou MJMarcio 👋
 
-- 🌱 Estou estudando Desenvolvimento de Sistemas, C# e Python
+- 🌱 Estou estudando Desenvolvimento de Sistemas, Com interesse em aprender C# e Python
 - 📫 Contate-me no email: devmarciio@gmail.com
 
 <div align="center">
